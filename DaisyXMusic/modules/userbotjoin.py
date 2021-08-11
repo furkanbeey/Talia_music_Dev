@@ -1,5 +1,5 @@
 # Daisyxmusic (Telegram bot project )
-# Copyright (C) 2021  Inukaasith
+# Copyright (C) 2021  MehmetBey
 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as
@@ -53,7 +53,7 @@ async def addchannel(client, message):
         print(e)
         await message.reply_text(
             f"<b>🛑 Flood Wait Error 🛑 \n User {user.first_name} couldn't join your group due to heavy join requests for userbot! Make sure user is not banned in group."
-            "\n\nOr manually add @DaisyXhelper to your Group and try again</b>",
+            "\n\nOr manually add @sesmusicasistan to your Group and try again</b>",
         )
         return
     await message.reply_text(
@@ -128,7 +128,7 @@ async def addcchannel(client, message):
         print(e)
         await message.reply_text(
             f"<b>🛑 Flood Wait Error 🛑 \n User {user.first_name} couldn't join your channel due to heavy join requests for userbot! Make sure user is not banned in channel."
-            "\n\nOr manually add @DaisyXhelper to your Group and try again</b>",
+            "\n\nOr manually add @sesmusicasistan to your Group and try again</b>",
         )
         return
     await message.reply_text(
