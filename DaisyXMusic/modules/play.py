@@ -398,12 +398,12 @@ async def m_cb(b, cb):
             callsmusic.pause(chet_id)
             await cb.answer("Müzik Duraklatıldı!")
     elif type_ == "cls":
-        await cb.answer("Closed menu")
+        await cb.answer("Menü Kapalı")
         await cb.message.delete()
 
     elif type_ == "menu":
         stats = updated_stats(cb.message.chat, qeue)
-        await cb.answer("Menu opened")
+        await cb.answer("Menü Açıldı")
         marr = InlineKeyboardMarkup(
             [
                 [
