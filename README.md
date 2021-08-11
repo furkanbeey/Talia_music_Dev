@@ -1,11 +1,11 @@
 <h1 align="centre">LoungeMUSIC V1.0 🎵</h1>
 
 ### Telegram gruplarınızda müzik dinlemenize yarar 
-#### POWERED BY [Bodrumlu](https://t.me/bodrumlubebekk)
-### Destek kanalı [@Loungemusicsupport](https://t.me/loungemusicsupport)
+#### POWERED BY [MehmetBey](https://t.me/tg_Sefiri) 
+### Destek kanalı [@Loungemusicsupport](https://t.me/KanalEfsanestar)
 
 <p align="center">
-  <img src="https://telegra.ph/file/03f1c9ec4513c3a52bc22.jpg">
+  <img src="https://i.ibb.co/syVTfWb/6d58817f09e15d326fa1807f2a57587c.jpg" alt="6d58817f09e15d326fa1807f2a57587c" border="0"> 
 </p>
 
 <h2> Özellikler 🔥 </h2>
