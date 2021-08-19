@@ -46,7 +46,7 @@ def _start(client, message):
                         "💬 Support", url=f"https://t.me/sohbetneresi")
                 ],[
                     InlineKeyboardButton(
-                        "🛠 Kaynak kodu 🛠", url=f"https://github.com/Mehmetbaba55/EfsaneRadio_Telegram")
+                        "🛠 Kaynak kodu 🛠", url=f"https://github.com/Mehmetbaba55/Telegram_Music_Bot_01")
                 ]
             ]
         ),
@@ -56,12 +56,12 @@ def _start(client, message):
 @Client.on_message(filters.command("start") & ~filters.private & ~filters.channel)
 async def gstart(_, message: Message):
     await message.reply_text(
-        f"""**🔴 {PROJECT_NAME} is online**""",
+        f"""**🔴 Anonim Müzik Botu **""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💬 Support Chat", url=f"https://t.me/{SUPPORT_GROUP}"
+                        "💬 Support Chat", url=f"https://t.me/Sohbetneresi"
                     )
                 ]
             ]
@@ -101,10 +101,10 @@ def map(pos):
     elif(pos==len(tr.HELP_MSG)-1):
         url = f"https://t.me/{SUPPORT_GROUP}"
         button = [
-            [InlineKeyboardButton("➕ Beni Grubuna ekle 🙋‍♀️", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
+            [InlineKeyboardButton("➕ Beni Grubuna ekle 🙋‍♀️", url=f"https://t.me/Efsanestar_bot?startgroup=true")],
             [InlineKeyboardButton(text = '📲 Güncelleme kanalı', url=f"https://t.me/{UPDATES_CHANNEL}"),
              InlineKeyboardButton(text = '💬 Support', url=f"https://t.me/{SUPPORT_GROUP}")],
-            [InlineKeyboardButton(text = '🛠 Kaynak Kodu 🛠', url=f"https://{SOURCE_CODE}")],
+            [InlineKeyboardButton(text = '🛠 Kaynak Kodu 🛠', url=f"https://https://github.com/Mehmetbaba55/Telegram_Music_Bot_01")],
             [InlineKeyboardButton(text = '◀️', callback_data = f"help+{pos-1}")]
         ]
     else:
@@ -124,7 +124,7 @@ async def ghelp(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🟡 Yardım için buraya tıklayın 🟡", url=f"https://t.me/{BOT_USERNAME}?start"
+                        "🟡 Yardım için buraya tıklayın 🟡", url=f"https://t.me/Efsanestar_bot?start"
                     )
                 ]
             ]
