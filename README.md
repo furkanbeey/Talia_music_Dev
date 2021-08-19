@@ -1,7 +1,7 @@
 <h1 align="centre">LoungeMUSIC 01 🎵</h1>
 
 ### Telegram gruplarınızda müzik dinlemenize yarar 
-#### POWERED BY [MehmetBey](https://t.me/tg_Sefiri) 
+#### POWERED BY [Maho Bey](https://t.me/mahoaga) 
 ### Destek kanalı [@Loungemusicsupport](https://t.me/KanalEfsanestar)
 
 <p align="center">
@@ -61,8 +61,8 @@ Get pyrogram (p)  `SESSION` from here:
 
 
 #### Özel Krediler
-- [BODRUMLU OWNER](http://github.com/bodrumlu48): LoungeMusic Geliştirici
+- [Anonim OWNER](https://t.me/mahoaga): LoungeMusic Geliştirici
 
 
 #### DESTEK VERENLER
-- [SİRİDEV](https://t.me/sirisupport)
+- [Hacker](https://t.me/Byboss)
