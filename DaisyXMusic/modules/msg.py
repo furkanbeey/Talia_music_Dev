@@ -25,11 +25,11 @@ class Messages():
       HELP_MSG = [
         ".",
 f"""
-**Hey ♪ tekrar Hoş Geldiniz {PROJECT_NAME}
+**Hey ♪ tekrar Hoş Geldiniz Anonim Müzik
 
-⚪️ {PROJECT_NAME} grubunuzun sesli sohbetinde ve kanal sesli sohbetlerinde müzik çalabilir
+⚪️ Talia Music grubunuzun sesli sohbetinde ve kanal sesli sohbetlerinde müzik çalabilir
 
-⚪️ Assistant name >> @sesmusicasistan\n\nClick next for instructions**
+⚪️ Assistant name >> @TaliaMuSicasistant\n\nYönergeler için İleri'yi tıklatın**
 """,
 
 f"""
@@ -38,7 +38,7 @@ f"""
 1) bot admin olun (cplay kullanıyorsanız grup ve kanalda)
 2) sesli sohbet başlatın
 3) bir yönetici tarafından ilk kez [şarkı adı] çalmayı /çalmayı deneyin
-* ) Userbot katıldıysa, müzik keyfini çıkarın, değilse grubunuza @sesmusicasistan ekleyin ve tekrar deneyin
+* ) Userbot katıldıysa, müzik keyfini çıkarın, değilse grubunuza @TaliaMusicasistant ekleyin ve tekrar deneyin
 
 ** Kanal Müzik Çalma İçin**
 1) beni kanalınızın yöneticisi yapın 
@@ -94,7 +94,7 @@ kanal c yerine de kullanılabilir (/cplay = / channelplay )
 1) kanal kimliğinizi alın.
 2) tittle ile bir grup oluşturun: Kanal müzik: your_channel_id
 3) tam perma ile kanal yöneticisi olarak bot ekleyin
-4) kanala yönetici olarak @sesmusicasistan ekleyin.
+4) kanala yönetici olarak @TaliaMusicasistant ekleyin.
 5) sadece grubunuza komutlar gönderin. (bunun yerine /ytplay /play kullanmayı unutmayın)
 """,
 
@@ -103,7 +103,7 @@ f"""
 
 - /musicplayer [on / off]: müzik çaları Etkinleştir / devre dışı bırak
 - /admincache: grubunuzun yönetici bilgilerini günceller. Bot yönetici tarafından tanınmıyorsa deneyin
-- /userbotjoin: @sesmusicasistan kullanıcısını sohbetinize davet edin
+- /userbotjoin: @TaliaMusicasistant kullanıcısını sohbetinize davet edin
 """,
 f"""
 **=>> Şarkı İndir 🎸**
