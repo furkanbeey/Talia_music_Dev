@@ -38,15 +38,15 @@ def _start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "➕ Beni Grubuna ekle 🙋‍♀️", url=f"https://t.me/Mp3dinleme_Bot?startgroup=true")],
+                        "➕ Beni Grubuna ekle 🙋‍♀️", url=f"https://t.me/Efsanestar_bot?startgroup=true")],
                 [
                     InlineKeyboardButton(
-                        "📲 Güncelleme duyuru", url=f"https://t.me/{UPDATES_CHANNEL}"), 
+                        "📲 Güncelleme duyuru", url=f"https://t.me/SohbetDestek"), 
                     InlineKeyboardButton(
-                        "💬 Support", url=f"https://t.me/{SUPPORT_GROUP}")
+                        "💬 Support", url=f"https://t.me/sohbetneresi")
                 ],[
                     InlineKeyboardButton(
-                        "🛠 Kaynak kodu 🛠", url=f"https://{SOURCE_CODE}")
+                        "🛠 Kaynak kodu 🛠", url=f"https://github.com/Mehmetbaba55/EfsaneRadio_Telegram")
                 ]
             ]
         ),
