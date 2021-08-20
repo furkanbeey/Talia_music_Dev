@@ -154,7 +154,7 @@ async def playlist(client, message):
     by = temp[0][1].mention(style="md")
     msg = "**Müzik başlıyor** in {}".format(message.chat.title)
     msg += "\n- " + now_playing
-    msg += "\n- Talia tarafından " + by
+    msg += "\n- Asistan tarafından " + by
     temp.pop(0)
     if temp:
         msg += "\n\n"
