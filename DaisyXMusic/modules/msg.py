@@ -27,9 +27,9 @@ class Messages():
 f"""
 **Hey ♪ tekrar Hoş Geldiniz Anonim Müzik
 
-⚪️ Talia Music grubunuzun sesli sohbetinde ve kanal sesli sohbetlerinde müzik çalabilir
+⚪️ La Casa de Music grubunuzun sesli sohbetinde ve kanal sesli sohbetlerinde müzik çalabilir
 
-⚪️ Assistant name >> @TaliaMuSicasistant\n\nYönergeler için İleri'yi tıklatın**
+⚪️ Assistant name >> @lacasademusic\n\nYönergeler için İleri'yi tıklatın**
 """,
 
 f"""
@@ -94,7 +94,7 @@ kanal c yerine de kullanılabilir (/cplay = / channelplay )
 1) kanal kimliğinizi alın.
 2) tittle ile bir grup oluşturun: Kanal müzik: your_channel_id
 3) tam perma ile kanal yöneticisi olarak bot ekleyin
-4) kanala yönetici olarak @TaliaMusicasistant ekleyin.
+4) kanala yönetici olarak @LaCasadeMusicasistant ekleyin.
 5) sadece grubunuza komutlar gönderin. (bunun yerine /ytplay /play kullanmayı unutmayın)
 """,
 
@@ -103,7 +103,7 @@ f"""
 
 - /musicplayer [on / off]: müzik çaları Etkinleştir / devre dışı bırak
 - /admincache: grubunuzun yönetici bilgilerini günceller. Bot yönetici tarafından tanınmıyorsa deneyin
-- /userbotjoin: @TaliaMusicasistant kullanıcısını sohbetinize davet edin
+- /userbotjoin: @LaCasadeMusicasistant kullanıcısını sohbetinize davet edin
 """,
 f"""
 **=>> Şarkı İndir 🎸**
