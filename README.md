@@ -61,7 +61,7 @@ Get pyrogram (p)  `SESSION` from here:
 
 
 #### Özel Krediler
-- [Anonim OWNER](https://t.me/mahoaga): LoungeMusic Geliştirici
+- [Anonim OWNER](https://t.me/mahoaga): TaliaMusic Geliştirici
 
 
 #### DESTEK VERENLER
