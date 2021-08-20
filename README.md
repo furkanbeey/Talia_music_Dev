@@ -65,4 +65,4 @@ Get pyrogram (p)  `SESSION` from here:
 
 
 #### DESTEK VERENLER
-- [Hacker](https://t.me/Byboss)
+- [Yazılımcı](https://t.me/Byboss)
