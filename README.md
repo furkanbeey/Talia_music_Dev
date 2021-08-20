@@ -1,8 +1,8 @@
 <h1 align="centre">TaliaMUSIC 01 🎵</h1>
 
 ### Telegram gruplarınızda müzik dinlemenize yarar 
-#### POWERED BY [Owner 🇹🇷](https://t.me/mahoaga) 
-### Destek kanalı [Talia Music Support🏷️](https://t.me/SohbetDestek)
+#### POWERED BY [Owner 🇹🇷](https://t.me/furkanbeyy) 
+### Destek kanalı [kurtadamoyunu Support🏷️](https://t.me/kurtadamoyunuu)
 
 <p align="center">
   <img src="https://i.ibb.co/syVTfWb/6d58817f09e15d326fa1807f2a57587c.jpg" alt="6d58817f09e15d326fa1807f2a57587c" border="0"> 
@@ -63,8 +63,8 @@ Get pyrogram (p)  `SESSION` from here:
 
 
 #### Özel Krediler
-- [Anonim OWNER](https://t.me/mahoaga): TaliaMusic Geliştirici
+- [Anonim OWNER](https://t.me/furkanbeyy): Geliştirici
 
 
 #### DESTEK VERENLER
-- [Yazılımcı](https://t.me/Byboss)
+- [Sahip](https://t.me/furkanbeyy)
