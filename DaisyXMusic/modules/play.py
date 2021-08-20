@@ -154,7 +154,7 @@ async def playlist(client, message):
     by = temp[0][1].mention(style="md")
     msg = "**Müzik başlıyor** in {}".format(message.chat.title)
     msg += "\n- " + now_playing
-    msg += "\n- Req by" + by
+    msg += "\n- Talia tarafından " + by
     temp.pop(0)
     if temp:
         msg += "\n\n"
@@ -179,7 +179,7 @@ def updated_stats(chat, queue, vol=100):
             stats += "Ses : {}%\n".format(vol)
             stats += "Sırada olan şarkılar: `{}`\n".format(len(que))
             stats += "Şimdi Yürütülen: **{}**\n".format(queue[0][0])
-            stats += "İstenen: {}".format(queue[0][1].mention)
+            stats += "Müzik Aratan: {}".format(queue[0][1].mention)
     else:
         stats = None
     return stats
@@ -302,7 +302,7 @@ async def p_cb(b, cb):
         by = temp[0][1].mention(style="md")
         msg = "<b>Şimdi Yürütülen</b> in {}".format(cb.message.chat.title)
         msg += "\n- " + now_playing
-        msg += "\n- Talia Music" + by
+        msg += "\n- Talia Müzik tarafından " + by
         temp.pop(0)
         if temp:
             msg += "\n\n"
@@ -369,7 +369,7 @@ async def m_cb(b, cb):
         by = temp[0][1].mention(style="md")
         msg = "**Şimdi yürütülen** in {}".format(cb.message.chat.title)
         msg += "\n- " + now_playing
-        msg += "\n- Talia Music tarafından " + by
+        msg += "\n- Talia müzik tarafından " + by
         temp.pop(0)
         if temp:
             msg += "\n\n"
