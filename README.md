@@ -2,7 +2,7 @@
 
 ### Telegram gruplarınızda müzik dinlemenize yarar 
 #### POWERED BY [Owner 🇹🇷](https://t.me/mahoaga) 
-### Destek kanalı [Talia Music Support 🛠️](https://t.me/SohbetDestek)
+### Destek kanalı [Talia Music Support🏷️](https://t.me/SohbetDestek)
 
 <p align="center">
   <img src="https://i.ibb.co/syVTfWb/6d58817f09e15d326fa1807f2a57587c.jpg" alt="6d58817f09e15d326fa1807f2a57587c" border="0"> 
