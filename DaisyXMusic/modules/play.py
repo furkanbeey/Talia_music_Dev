@@ -154,11 +154,11 @@ async def playlist(client, message):
     by = temp[0][1].mention(style="md")
     msg = "**Müzik başlıyor** in {}".format(message.chat.title)
     msg += "\n- " + now_playing
-    msg += "\n- Req by " + by
+    msg += "\n- Req by" + by
     temp.pop(0)
     if temp:
         msg += "\n\n"
-        msg += "**Queue**"
+        msg += "**Sıra**"
         for song in temp:
             name = song[0]
             usr = song[1].mention(style="md")
@@ -173,13 +173,13 @@ async def playlist(client, message):
 def updated_stats(chat, queue, vol=100):
     if chat.id in callsmusic.active_chats:
         # if chat.id in active_chats:
-        stats = "Settings of **{}**".format(chat.title)
+        stats = "Ayarlar**{}**".format(chat.title)
         if len(que) > 0:
             stats += "\n\n"
-            stats += "Volume : {}%\n".format(vol)
-            stats += "Songs in queue : `{}`\n".format(len(que))
-            stats += "Now Playing : **{}**\n".format(queue[0][0])
-            stats += "Requested by : {}".format(queue[0][1].mention)
+            stats += "Ses : {}%\n".format(vol)
+            stats += "Sırada olan şarkılar: `{}`\n".format(len(que))
+            stats += "Şimdi Yürütülen: **{}**\n".format(queue[0][0])
+            stats += "İstenen: {}".format(queue[0][1].mention)
     else:
         stats = None
     return stats
@@ -300,13 +300,13 @@ async def p_cb(b, cb):
             temp.append(t)
         now_playing = temp[0][0]
         by = temp[0][1].mention(style="md")
-        msg = "<b>Now Playing</b> in {}".format(cb.message.chat.title)
+        msg = "<b>Şimdi Yürütülen</b> in {}".format(cb.message.chat.title)
         msg += "\n- " + now_playing
-        msg += "\n- Req by " + by
+        msg += "\n- Talia Music" + by
         temp.pop(0)
         if temp:
             msg += "\n\n"
-            msg += "**Queue**"
+            msg += "**Sıra**"
             for song in temp:
                 name = song[0]
                 usr = song[1].mention(style="md")
@@ -367,13 +367,13 @@ async def m_cb(b, cb):
             temp.append(t)
         now_playing = temp[0][0]
         by = temp[0][1].mention(style="md")
-        msg = "**Now Playing** in {}".format(cb.message.chat.title)
+        msg = "**Şimdi yürütülen** in {}".format(cb.message.chat.title)
         msg += "\n- " + now_playing
-        msg += "\n- Req by " + by
+        msg += "\n- Talia Music tarafından " + by
         temp.pop(0)
         if temp:
             msg += "\n\n"
-            msg += "**Queue**"
+            msg += "**Sıra**"
             for song in temp:
                 name = song[0]
                 usr = song[1].mention(style="md")
