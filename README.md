@@ -31,7 +31,8 @@
 Get pyrogram (p)  `SESSION` from here:
 
 [SESSION ALMAK ICIN TIKLA](https://t.me/StringSessionGenRobot)
-[SESSION BOT İLE ALMAK İÇİN TIKLA] (https://t.me/Sitringsison_bot)
+
+[SESSION BOT İLE ALMAK İÇİN TIKLA](https://t.me/Sitringsison_bot)
 
 
 ### Grup için komutlar :
