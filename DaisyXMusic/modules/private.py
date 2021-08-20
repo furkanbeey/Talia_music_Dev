@@ -38,12 +38,12 @@ def _start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "➕ Beni Grubuna ekle 🙋‍♀️", url=f"https://t.me/Efsanestar_bot?startgroup=true")],
+                        "➕ Beni Grubuna ekle 🙋‍♀️", url=f"https://t.me/LaCasadeMusicbot?startgroup=true")],
                 [
                     InlineKeyboardButton(
-                        "📲 Güncelleme duyuru", url=f"https://t.me/SohbetDestek"), 
+                        "📲 Güncelleme duyuru", url=f"https://t.me/kurtadamoyunuu), 
                     InlineKeyboardButton(
-                        "💬 Support", url=f"https://t.me/sohbetneresi")
+                        "💬 Sahip", url=f"https://t.me/furkanbeyy")
                 ],[
                     InlineKeyboardButton(
                         "🛠 Kaynak kodu 🛠", url=f"https://github.com/Mehmet5506/Talia_music_Dev")
@@ -61,7 +61,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💬 Support Chat", url=f"https://t.me/Sohbetneresi"
+                        "💬 Support Chat", url=f"https://t.me/kurtadamoyunuu"
                     )
                 ]
             ]
