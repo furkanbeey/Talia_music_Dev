@@ -1,4 +1,4 @@
-<h1 align="centre">LoungeMUSIC 01 🎵</h1>
+<h1 align="centre">TaliaMUSIC 01 🎵</h1>
 
 ### Telegram gruplarınızda müzik dinlemenize yarar 
 #### POWERED BY [Owner 🇹🇷](https://t.me/mahoaga) 
