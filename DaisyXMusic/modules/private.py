@@ -46,7 +46,7 @@ def _start(client, message):
                         "💬 Sahip", url=f"https://t.me/furkanbeyy")
                 ],[
                     InlineKeyboardButton(
-                        "🛠 Kaynak kodu 🛠", url=f"https://github.com/Mehmet5506/Talia_music_Dev")
+                        "🛠 Kaynak kodu 🛠", url=f"https://t.me/mahoaga")
                 ]
             ]
         ),
