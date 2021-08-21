@@ -41,7 +41,7 @@ def _start(client, message):
                         "➕ Beni Grubuna ekle 🙋‍♀️", url=f"https://t.me/LaCasadeMusicbot?startgroup=true")],
                 [
                     InlineKeyboardButton(
-                        "📲 Güncelleme duyuru", url=f"https://t.me/kurtadamoyunuu), 
+                        "📲 Güncelleme duyuru", url=f"https://t.me/kurtadamoyunuu"), 
                     InlineKeyboardButton(
                         "💬 Sahip", url=f"https://t.me/furkanbeyy")
                 ],[
@@ -101,7 +101,7 @@ def map(pos):
     elif(pos==len(tr.HELP_MSG)-1):
         url = f"https://t.me/{SUPPORT_GROUP}"
         button = [
-            [InlineKeyboardButton("➕ Beni Grubuna ekle 🙋‍♀️", url=f"https://t.me/Efsanestar_bot?startgroup=true")],
+            [InlineKeyboardButton("➕ Beni Grubuna ekle 🙋‍♀️", url=f"https://t.me/LaCasadeMusic_bot?startgroup=true")],
             [InlineKeyboardButton(text = '📲 Güncelleme kanalı', url=f"https://t.me/{UPDATES_CHANNEL}"),
              InlineKeyboardButton(text = '💬 Support', url=f"https://t.me/{SUPPORT_GROUP}")],
             [InlineKeyboardButton(text = '🛠 Kaynak Kodu 🛠', url=f"https://https://github.com/Mehmetbaba55/Telegram_Music_Bot_01")],
@@ -124,7 +124,7 @@ async def ghelp(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🟡 Yardım için buraya tıklayın 🟡", url=f"https://t.me/Efsanestar_bot?start"
+                        "🟡 Yardım için buraya tıklayın 🟡", url=f"https://t.me/LaCasadeMusic_bot?start"
                     )
                 ]
             ]
