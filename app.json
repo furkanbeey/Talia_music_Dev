@@ -53,7 +53,7 @@
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": " https://telegra.ph/file/03f1c9ec4513c3a52bc22.jpg"
+      "value": " https://i.ibb.co/cYqP8HM/depositphotos-85029630-stock-illustration-modern-vector-music-logo-fm.jpg"
     },     
     "UPDATES_CHANNEL": {
       "description": "Güncelleme kanalını secin].",
