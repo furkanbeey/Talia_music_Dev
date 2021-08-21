@@ -53,7 +53,7 @@
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": " https://i.ibb.co/cYqP8HM/depositphotos-85029630-stock-illustration-modern-vector-music-logo-fm.jpg"
+      "value": " https://i.ibb.co/g6fSzv6/IMG-20210821-174615-624.jpg"
     },     
     "UPDATES_CHANNEL": {
       "description": "Güncelleme kanalını secin].",
