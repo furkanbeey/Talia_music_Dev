@@ -28,7 +28,7 @@ SESSION_NAME = getenv("SESSION_NAME", "session")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_NAME = getenv("BOT_NAME")
 UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "Loungeupdates")
-BG_IMAGE = getenv("BG_IMAGE", "https://i.ibb.co/cYqP8HM/depositphotos-85029630-stock-illustration-modern-vector-music-logo-fm.jpg"
+BG_IMAGE = getenv("BG_IMAGE", "https://i.ibb.co/g6fSzv6/IMG-20210821-174615-624.jpg"
     },     ")
 admins = {}
 API_ID = int(getenv("API_ID", ""))
